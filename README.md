@@ -52,4 +52,4 @@ Este proyecto permite gestionar facturas y notas de crédito de forma sencilla, 
 Nota: Al ejecutar el projecto la db finix_database.db, se pobla con los datos en bd_exam.json.
 
 Nota 2: Al querer reiniciar los datos de la db con los que se tiene en bd_exam.json, eliminar archivo finix_database.db 
-y volver al paso 3
+y volver al paso 4
