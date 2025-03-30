@@ -3,7 +3,10 @@
 Este proyecto permite gestionar facturas y notas de crédito de forma sencilla, cargando datos desde un archivo JSON y manipulándolos mediante una API REST (.NET) y una interfaz web (React).
 
 ---
-
+## Credenciales
+- Email: moraga@finix-group.cl
+- Contraseña: finixgroup@2025
+  
 ## Tecnologías
 
 - Backend: .NET 8 + Entity Framework Core + SQLite
@@ -22,8 +25,6 @@ Este proyecto permite gestionar facturas y notas de crédito de forma sencilla, 
    ```
 
 ## Instalación y Ejecución
-
-### Backend
 
 1. Clonar repositorio
 1. Ir a la carpeta `/backend`
