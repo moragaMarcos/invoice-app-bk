@@ -13,6 +13,14 @@ Este proyecto permite gestionar facturas y notas de crédito de forma sencilla, 
 
 ---
 
+## Requisitos
+
+- Instalar sqliteBrowser en https://sqlitebrowser.org/ o gestor sqlite favorito
+- Instalar cli entityframework para migraciones y actualización de db 
+   ```bash
+     dotnet tool install --global dotnet-ef   
+   ```
+
 ## Instalación y Ejecución
 
 ### Backend
